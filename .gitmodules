@@ -1,0 +1,3 @@
+[submodule "jmsd_tp_component"]
+	path = jmsd_tp_component
+	url = https://github.com/jiteman/jmsd_tp_component.git
