@@ -7,3 +7,6 @@
 [submodule "group_autotesting/jmsd_tpc_cppunit"]
 	path = group_autotesting/jmsd_tpc_cppunit
 	url = https://github.com/jiteman/jmsd_tpc_cppunit.git
+[submodule "group_foundation/jmsd_tpc_poco_cpp"]
+	path = group_foundation/jmsd_tpc_poco_cpp
+	url = https://github.com/jiteman/jmsd_tpc_poco_cpp.git
