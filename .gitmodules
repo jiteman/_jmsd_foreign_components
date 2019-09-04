@@ -1,3 +1,6 @@
 [submodule "jmsd_tp_component"]
 	path = jmsd_tp_component
 	url = https://github.com/jiteman/jmsd_tp_component.git
+[submodule "group_autotesting/jmsd_tpc_googletest"]
+	path = group_autotesting/jmsd_tpc_googletest
+	url = https://github.com/jiteman/jmsd_tpc_googletest.git
