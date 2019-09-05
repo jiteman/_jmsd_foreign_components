@@ -7,3 +7,6 @@
 [submodule "group_foundation/jmsd_tpc_poco_cpp"]
 	path = group_foundation/jmsd_tpc_poco_cpp
 	url = https://github.com/jiteman/jmsd_tpc_poco_cpp.git
+[submodule "jmsd_tpc_component"]
+	path = jmsd_tpc_component
+	url = https://github.com/jiteman/jmsd_tpc_component.git
