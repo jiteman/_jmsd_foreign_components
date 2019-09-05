@@ -6,7 +6,7 @@ project( _jmsd_foreign_components )
 JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
-add_subdirectory( jmsd_tp_component )
+add_subdirectory( jmsd_tpc_component )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
