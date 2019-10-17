@@ -7,8 +7,8 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 add_subdirectory( jmsd_tpc_component )
-# add_subdirectory( group_autotesting )
-# add_subdirectory( group_foundation )
+add_subdirectory( group_autotesting )
+#add_subdirectory( group_foundation )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
