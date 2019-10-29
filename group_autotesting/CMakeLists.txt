@@ -7,7 +7,7 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 add_subdirectory( jmsd_tpc_googletest )
-#add_subdirectory( jmsd_tpc_cppunit )
+add_subdirectory( jmsd_tpc_cppunit )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
