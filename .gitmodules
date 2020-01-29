@@ -10,3 +10,6 @@
 [submodule "jmsd_tpc_component"]
 	path = jmsd_tpc_component
 	url = https://github.com/jiteman/jmsd_tpc_component.git
+[submodule "group_foundation/jmsd_tpc_abseil_cpp"]
+	path = group_foundation/jmsd_tpc_abseil_cpp
+	url = https://github.com/jiteman/jmsd_tpc_abseil_cpp.git
