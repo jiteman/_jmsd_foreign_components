@@ -7,7 +7,6 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 add_subdirectory( jmsd_tpc_poco_cpp )
-add_subdirectory( jmsd_tpc_abseil_cpp )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
