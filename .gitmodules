@@ -10,3 +10,6 @@
 [submodule "jmsd_tpc_component"]
 	path = jmsd_tpc_component
 	url = https://github.com/jiteman/jmsd_tpc_component.git
+[submodule "group_media/jmsd_tpc_sfml"]
+	path = group_media/jmsd_tpc_sfml
+	url = https://github.com/jiteman/jmsd_tpc_sfml.git
