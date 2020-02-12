@@ -19,3 +19,9 @@
 [submodule "group_media/jmsd_tpc_sdl"]
 	path = group_media/jmsd_tpc_sdl
 	url = https://github.com/jiteman/jmsd_tpc_sdl.git
+[submodule "group_media/jmsd_tpc_flac"]
+	path = group_media/jmsd_tpc_flac
+	url = https://github.com/jiteman/jmsd_tpc_flac.git
+[submodule "group_media/jmsd_tpc_vorbis"]
+	path = group_media/jmsd_tpc_vorbis
+	url = https://github.com/jiteman/jmsd_tpc_vorbis.git
