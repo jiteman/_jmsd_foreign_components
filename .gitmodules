@@ -25,3 +25,6 @@
 [submodule "group_media/jmsd_tpc_vorbis"]
 	path = group_media/jmsd_tpc_vorbis
 	url = https://github.com/jiteman/jmsd_tpc_vorbis.git
+[submodule "group_media/jmsd_tpc_ogg"]
+	path = group_media/jmsd_tpc_ogg
+	url = https://github.com/jiteman/jmsd_tpc_ogg.git
