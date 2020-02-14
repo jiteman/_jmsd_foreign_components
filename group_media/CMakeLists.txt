@@ -11,7 +11,7 @@ add_subdirectory( jmsd_tpc_openal_soft )
 add_subdirectory( jmsd_tpc_ogg )
 add_subdirectory( jmsd_tpc_vorbis )
 add_subdirectory( jmsd_tpc_flac )
-#add_subdirectory( jmsd_tpc_sfml )
+add_subdirectory( jmsd_tpc_sfml )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
