@@ -28,3 +28,6 @@
 [submodule "group_media/jmsd_tpc_ogg"]
 	path = group_media/jmsd_tpc_ogg
 	url = https://github.com/jiteman/jmsd_tpc_ogg.git
+[submodule "group_media/jmsd_tpc_freetype"]
+	path = group_media/jmsd_tpc_freetype
+	url = https://github.com/jiteman/jmsd_tpc_freetype.git
