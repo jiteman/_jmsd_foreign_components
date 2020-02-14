@@ -31,3 +31,6 @@
 [submodule "group_media/jmsd_tpc_freetype"]
 	path = group_media/jmsd_tpc_freetype
 	url = https://github.com/jiteman/jmsd_tpc_freetype.git
+[submodule "group_media/jmsd_tpc_zlib"]
+	path = group_media/jmsd_tpc_zlib
+	url = https://github.com/jiteman/jmsd_tpc_zlib.git
