@@ -5,7 +5,8 @@ project( jmsd_tpc_group_media )
 
 JMSD_SHOW_PROJECT_GROUP_HEADER()
 
-add_subdirectory( jmsd_tpc_freetype )
+add_subdirectory( jmsd_tpc_zlib )
+#add_subdirectory( jmsd_tpc_freetype )
 add_subdirectory( jmsd_tpc_sdl )
 add_subdirectory( jmsd_tpc_openal_soft )
 add_subdirectory( jmsd_tpc_ogg )
