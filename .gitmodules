@@ -34,3 +34,6 @@
 [submodule "group_media/jmsd_tpc_zlib"]
 	path = group_media/jmsd_tpc_zlib
 	url = https://github.com/jiteman/jmsd_tpc_zlib.git
+[submodule "group_media/jmsd_tpc_glew"]
+	path = group_media/jmsd_tpc_glew
+	url = https://github.com/jiteman/jmsd_tpc_glew.git
