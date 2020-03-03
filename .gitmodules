@@ -37,3 +37,9 @@
 [submodule "group_media/jmsd_tpc_glew"]
 	path = group_media/jmsd_tpc_glew
 	url = https://github.com/jiteman/jmsd_tpc_glew.git
+[submodule "group_media/jmsd_tpc_glut"]
+	path = group_media/jmsd_tpc_glut
+	url = https://github.com/jiteman/jmsd_tpc_glut.git
+[submodule "group_media/jmsd_tpc_alut"]
+	path = group_media/jmsd_tpc_alut
+	url = https://github.com/jiteman/jmsd_tpc_alut.git
