@@ -43,3 +43,6 @@
 [submodule "group_media/jmsd_tpc_alut"]
 	path = group_media/jmsd_tpc_alut
 	url = https://github.com/jiteman/jmsd_tpc_alut.git
+[submodule "group_media/jmsd_tpc_png"]
+	path = group_media/jmsd_tpc_png
+	url = https://github.com/jiteman/jmsd_tpc_png.git
